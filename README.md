@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋  I'm Kirtesh Maskey
+-----------------------------------
 
-<!--
-**kirteshmaskey/kirteshmaskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Technology Engineering Student and tech enthusiast, having interest in Web Development.
 
-Here are some ideas to get you started:
+I have command on C++, HTML, CSS, JavaScript, React, git and GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm based in Nagpur
+* Email: kirteshmaskey@gmail.com
+
+
+### Socials
+<p align="left">
+  <a href="https://github.com/kirteshmaskey" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/kirteshmaskey/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/kirtesh_maskey/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+</p>
+
+
+### My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kirteshmaskey&count_private=true&theme=tokyonight&showicons=true)]()
+<br/>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kirteshmaskey&langs_count=5&theme=tokyonight)]()
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kirteshmaskey)](https://git.io/streak-stats)
