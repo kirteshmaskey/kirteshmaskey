@@ -1,9 +1,9 @@
-## Hi there 👋  I'm Kirtesh Maskey ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kirteshmaskey) 
+## Hi there 👋  I'm Kirtesh Maskey [![Visitors](https://badges.pufler.dev/visits/kirteshmaskey/kirteshmaskey)](https://github.com/kirteshmaskey)
 -----------------------------------
 
 I'm a Computer Technology Engineering Student and tech enthusiast, having interest in Web Development.
 
-I have command on C++, HTML, CSS, JavaScript, React, git and GitHub.
+I have command on C++, HTML, CSS, JavaScript, React, Node.Js, Express.Js, MongoDB, git and GitHub.
 
 * I'm based in Nagpur
 * Email: kirteshmaskey@gmail.com
