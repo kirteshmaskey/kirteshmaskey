@@ -1,4 +1,4 @@
-## Hi there 👋  I'm Kirtesh Maskey [![Visitors](https://badges.pufler.dev/visits/kirteshmaskey/kirteshmaskey)](https://github.com/kirteshmaskey)
+## Hi there 👋  I'm Kirtesh Maskey [![Visitors](https://komarev.com/ghpvc/?username=kirteshmaskey&label=Visitors&color=brightgreen&style=plastic)](https://github.com/kirteshmaskey)
 -----------------------------------
 
 I'm a Computer Technology Engineering Student and tech enthusiast, having interest in Web Development.
