@@ -11,10 +11,11 @@ I have command on C++, HTML, CSS, JavaScript, React, Node.Js, Express.Js, MongoD
 
 ### Socials
 <p align="left">
-  <a href="https://github.com/kirteshmaskey" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/kirteshmaskey/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.instagram.com/kirtesh_maskey/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://github.com/kirteshmaskey" target="_blank" rel="noreferrer"><img src="https://github.com/kirteshmaskey/kirteshmaskey/assets/84732597/c7620cec-a780-4419-a0b1-1df0d3e793cf" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/kirteshmaskey/" target="_blank" rel="noreferrer"><img src="https://github.com/kirteshmaskey/kirteshmaskey/assets/84732597/b4096d41-984a-4f43-a018-bee5eb55330a" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/kirtesh_maskey/" target="_blank" rel="noreferrer"><img src="https://github.com/kirteshmaskey/kirteshmaskey/assets/84732597/ef50dee3-b671-427d-8eed-7dfed0e912ba" width="32" height="32" /></a>
 </p>
+
 
 
 ### My GitHub Stats
